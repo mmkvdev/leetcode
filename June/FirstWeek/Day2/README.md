@@ -4,7 +4,7 @@ Write a function to delete a node (except the tail) in a singly linked list, giv
 
 Given linked list -- head = [4, 5, 1, 9], which looks like following:
 
-![Binary Tree](/home/madhumudunur/Desktop/leetCode/leetcode/June/FirstWeek/assets/binaryTreeLeetCode.png)
+![Binary Tree](/home/madhumudunur/Desktop/leetCode/leetcode/June/FirstWeek/assets/binarytree.png)
 
 Example 1:
 
