@@ -5,6 +5,9 @@
 
 Given linked list -- head = [4,5,1,9], which looks like following:
 
+![Binary Tree](/home/madhumudunur/Desktop/leetCode/leetcode/June/FirstWeek/assets/binaryTreeLeetCode.png)
+
+
 Example 1:
 
 Input: head = [4,5,1,9], node = 5
