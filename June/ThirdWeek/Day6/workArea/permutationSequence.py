@@ -26,3 +26,4 @@ def permutationGenerator(s, n, k):
 
 s = [1, 2, 3]
 print(permutationGenerator(s, 4, 9))
+print(permutationGenerator(s, 3, 3))
