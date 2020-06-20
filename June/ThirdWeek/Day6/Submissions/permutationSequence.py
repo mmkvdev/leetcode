@@ -10,3 +10,4 @@ class Solution:
 if __name__ == '__main__':
     solution = Solution()
     print(solution.getPermutation(3,3))
+    print(solution.getPermutation(4, 9))
