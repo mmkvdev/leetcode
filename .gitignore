@@ -1,2 +1,4 @@
 ## scripts to be ignored
 a.out
+node_modules
+package-lock.json
