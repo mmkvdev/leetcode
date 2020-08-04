@@ -19,7 +19,7 @@
   
   ### Week 3
   - [Reverse Words in a String](https://github.com/mmkvdev/leetcode/tree/master/July/Week-3/Day1)
-  - [Pow(x,n](https://github.com/mmkvdev/leetcode/tree/master/July/Week-3/Day2)
+  - [Pow(x,n)](https://github.com/mmkvdev/leetcode/tree/master/July/Week-3/Day2)
   - [Top K Frequent Elements](https://github.com/mmkvdev/leetcode/tree/master/July/Week-3/Day3)
   - [Course Schedule II](https://github.com/mmkvdev/leetcode/tree/master/July/Week-3/Day4)
   - [Add Binary](https://github.com/mmkvdev/leetcode/tree/master/July/Week-3/Day5)
