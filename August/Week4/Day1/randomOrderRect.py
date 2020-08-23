@@ -1,3 +1,5 @@
+import random
+import bisect
 class Solution:
     
     def numPoints(self, rect) -> int:
